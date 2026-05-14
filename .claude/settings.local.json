@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(composer lint:*)",
+      "Bash(vendor/bin/phpstan:*)",
+      "Bash(vendor/bin/pint:*)",
+      "Bash(vendor/bin/pest:*)",
+      "Bash(php:*)",
+      "WebSearch"
+    ],
+    "defaultMode": "acceptEdits"
+  }
+}
